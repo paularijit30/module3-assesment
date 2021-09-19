@@ -1,0 +1,34 @@
+.txt-center{
+	text-align: center;
+}
+.bd{
+	border-bottom : 1px solid black;;
+}
+
+.pd1{
+	padding: 3%;
+}
+.bg-col{
+	background-color: #999999;
+}
+.txt-just{
+	text-align: justify;
+}
+.pd2{
+	padding: 1.5%;
+}
+
+@media only screen and (max-width: 780px) {
+	.bd{
+	border-bottom:  1px solid #ffffff;;
+	}
+	.bd1{
+	border-bottom:  1px solid black;;
+	}
+	.bd2{
+	border-top:  1px solid black;;
+	}
+	.pd{
+	margin-top: 3%;
+	}
+}
